@@ -18,5 +18,5 @@ https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 www.pornhub.com##.original.clear.hd
 www.pornhub.com##.clearfix > div
 www.pornhub.com## > video
-www.pornhub.com##[class*="clearfix"] > div
+! www.pornhub.com##[class*="clearfix"] > div
 

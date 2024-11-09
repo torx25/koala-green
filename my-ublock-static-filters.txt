@@ -6,7 +6,7 @@ https://rt.pornhub.com/_xa/ads_batch?
 ! rt.pornhub.com###vpContentContainer > .wide
 
 ! googletagmanager
-https://www.googletagmanager.com/
+||googletagmanager.com
 
 ! trafficjunky
 ||trafficjunky.com^

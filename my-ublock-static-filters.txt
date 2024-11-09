@@ -1,0 +1,69 @@
+! 2022-05-12 https://click-or-die.ru
+click-or-die.ru##.wp-block-cgb-block-widget-12
+
+! 2022-05-19 https://track24.ru
+track24.ru##.advertising.hidden-md.hidden-sm.hidden-xs > div
+
+! 2022-05-20 https://track24.ru
+||track24.ru/img/girl-covid-2019-1.png$image
+
+! 2022-06-03 https://track24.ru
+||track24.ru/img/girl-1v3.png$image
+
+! 2022-06-21 https://4pda.to
+4pda.to##.o872NvV8ksZ9t7FS
+
+! 2022-07-22 https://rutracker.org
+||rutrk.org/bn/sk/14/index.html$subdocument
+rutracker.org###bn-topic-block
+
+! 2022-07-22 https://yandex.ru
+yandex.ru##.container__line.container__banner.container
+
+! 2022-08-17 http://pornolab.net
+pornolab.net##tr > .tCenter
+
+! 2022-08-28 https://www.kinopoisk.ru
+www.kinopoisk.ru###yandex__underheader_yf0o9rx52gcf_251518_1661723384065 > .fjDgJL
+www.kinopoisk.ru###yandex__ynawqf_251518_1661723384265 > .fjDgJL
+
+! 2022-10-19 https://www.kinopoisk.ru
+www.kinopoisk.ru###kvWKB1609324496
+
+! 2022-11-07 https://fb.ru
+fb.ru##.innerbox__bar-list
+
+! 2023-02-03 https://plati.io
+||www.digiseller.ru/preview/1078812/p1_3460750_c3b7f5c5.gif$image
+
+! 2023-03-18 https://market.yandex.ru
+market.yandex.ru##._1ct84
+
+! 2023-11-29 https://www.jucra.com
+www.jucra.com###provely-iframe
+
+! 2023-12-20 https://www.experts-exchange.com
+www.experts-exchange.com##.selected.slide > .css-1ngni0z > .css-1bey4ct
+www.experts-exchange.com##.previous.slide > .css-1ngni0z > .css-1bey4ct > .css-1jojfl6
+
+! 2024-01-03 https://prophotos.ru
+||files.jumpoutpopup.ru/658d6154be893.html$subdocument
+
+! 2024-01-17 https://prophotos.ru
+||files.jumpoutpopup.ru/64edb7cac9d55.html$subdocument
+
+! 2024-03-07 https://www.bybit.com
+||fiat-ugc-testnet.bycsi.com/fiat/otc/banner/DeQ_ASsOtKfkBqGmFFyp6r4IMxPBRZQXKKw9rVQ-tbY.png$image
+||fiat-ugc-testnet.bycsi.com/fiat/otc/banner/DeQ_ASsOtKfkBqGmFFyp6r4IMxPBRZQXKKw9rVQ-tbY.png$image
+
+! 2024-04-16 https://www.digitalocean.com
+www.digitalocean.com##.goxyAG.TopBarCTAstyles__StyledTopBarCTA-sc-dwifql-0 > .bpZYvV.Typographystyles-sc-o7qsl9-0
+www.digitalocean.com##.kvSlzI.TopBarstyles__StyledTopBar-sc-17n1n7p-0
+
+! Jul 18, 2024 https://specialty.ru
+specialty.ru##.active.icon_in_button > a[href="javascript:void(0);"] > .default-tooltip.multi_button-main-div-text.multi_button-div-text
+specialty.ru##.active.icon_in_button
+
+! Aug 22, 2024 https://www.msn.com
+www.msn.com##.show.newsContainer-DS-EntryPoint1-1
+www.msn.com##.WeatherRightRailRoot-DS-EntryPoint1-1

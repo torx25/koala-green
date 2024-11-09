@@ -26,3 +26,5 @@ www.pornhub.com###vpContentContainer > .wide
 ! баннер под плеером
 www.pornhub.com##.original.clear[class*="hd"] 
 
+www.pornhub.com###singleFeedSection > .alpha
+

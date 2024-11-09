@@ -1,6 +1,7 @@
 ! etahub.com
 ||etahub.com^
-||pornhub.com/_xa/ads_batch?
+www.pornhub.com/_xa/ads_batch?
+rt.pornhub.com/_xa/ads_batch?
 
 ! googletagmanager
 ||googletagmanager.com
@@ -11,17 +12,9 @@
 ! phncdn.com 
 https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 
-! Nov 9, 2024 https://www.pornhub.com
 ||pornhub.com##[class*="clearfix."] > div
 ||pornhub.com##[class*="clearfix."]
-
-! right block 
 ||pornhub.com###vpContentContainer > .original 
 ||pornhub.com###vpContentContainer > .wide
-
-! www.pornhub.com##.clearfix.kb09v > div
-! ##.original.clear.hd.bbgsdcwqckn3k2dfvk8tu.bbgsdcwqckn3k2dfvk8tr
-! ##.original.clear.hd.bpa8n2q7paach1cj8dc8qu.bpa8n2q7paach1cj8dc8qr
-! ##.original.clear.hd.amw0u.amw0r
 ||pornhub.com##.original.clear[class^="hd."]
 

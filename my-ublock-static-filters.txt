@@ -24,6 +24,7 @@ www.pornhub.com##[class*="clear.hd."] > div
 
 ! right block 
 www.pornhub.com###vpContentContainer > .original 
+www.pornhub.com###vpContentContainer > .wide
 
 ! www.pornhub.com##.clearfix.kb09v > div
 ! ##.original.clear.hd.bbgsdcwqckn3k2dfvk8tu.bbgsdcwqckn3k2dfvk8tr

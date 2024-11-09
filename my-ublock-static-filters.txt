@@ -16,8 +16,11 @@ www.pornhub.com##[class*="clearfix."] > div
 www.pornhub.com##[class*="clearfix."]
 www.pornhub.com###vpContentContainer > .original 
 www.pornhub.com###vpContentContainer > .wide
-www.pornhub.com##.original.clear[class*="hd."] 
-rt.pornhub.com##.original.clear[class*="hd."] 
+
+! www.pornhub.com##.original.clear[class*="hd."] 
+! rt.pornhub.com##.original.clear[class*="hd."] 
 www.pornhub.com##.original.clear[class^="hd."] 
 rt.pornhub.com##.original.clear[class^="hd."]
+##.original.clear[class^="hd."] 
+##.original.clear[class*="hd."] 
 

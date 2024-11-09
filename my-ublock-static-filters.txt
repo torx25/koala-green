@@ -13,6 +13,7 @@ https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 
 ! Nov 9, 2024 https://www.pornhub.com
 www.pornhub.com##[class*="clearfix."] > div
+www.pornhub.com##[class*="clearfix."]
 
 ! right block 
 www.pornhub.com###vpContentContainer > .original 

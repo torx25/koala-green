@@ -1,5 +1,5 @@
 ! etahub.com
-||etahub.com^
+||etahub.com
 www.pornhub.com/_xa/ads_batch?
 rt.pornhub.com/_xa/ads_batch?
 
@@ -7,7 +7,7 @@ rt.pornhub.com/_xa/ads_batch?
 ||googletagmanager.com
 
 ! trafficjunky
-||trafficjunky.com^
+||trafficjunky.com
 
 ! phncdn.com  
 https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js

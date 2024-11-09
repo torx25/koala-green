@@ -9,7 +9,7 @@ https://rt.pornhub.com/_xa/ads_batch?
 https://www.googletagmanager.com/
 
 ! trafficjunky
-||trafficjunky.com^$3p
+||trafficjunky.com^
 
 ! phncdn.com
 https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js

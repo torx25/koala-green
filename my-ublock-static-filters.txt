@@ -12,9 +12,9 @@ rt.pornhub.com/_xa/ads_batch?
 ! phncdn.com 
 https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 
-||pornhub.com##[class*="clearfix."] > div
-||pornhub.com##[class*="clearfix."]
-||pornhub.com###vpContentContainer > .original 
-||pornhub.com###vpContentContainer > .wide
-||pornhub.com##.original.clear[class^="hd."]
+www.pornhub.com##[class*="clearfix."] > div
+www.pornhub.com##[class*="clearfix."]
+www.pornhub.com###vpContentContainer > .original 
+www.pornhub.com###vpContentContainer > .wide
+www.pornhub.com##.original.clear[class^="hd."]
 

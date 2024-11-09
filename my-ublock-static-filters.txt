@@ -19,5 +19,6 @@ www.pornhub.com##.original.clear.hd
 www.pornhub.com##.clearfix > div
 www.pornhub.com## > video
 www.pornhub.com##[class*="clearfix."] > div
+www.pornhub.com##[class*="clearfix.hd."] > div
 ! www.pornhub.com##.clearfix.kb09v > div
 

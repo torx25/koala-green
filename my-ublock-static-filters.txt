@@ -73,7 +73,10 @@ www.msn.com##.WeatherRightRailRoot-DS-EntryPoint1-1
 https://rt.pornhub.com/_xa/ads_batch?
 
 ! Nov 9, 2024 https://rt.pornhub.com
-rt.pornhub.com###vpContentContainer > .wide
+! rt.pornhub.com###vpContentContainer > .wide
+
+! ph
+rt.pornhub.com##.clearfix.*
 
 ! googletagmanager
 https://www.googletagmanager.com/

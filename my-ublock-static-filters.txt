@@ -5,9 +5,6 @@ https://rt.pornhub.com/_xa/ads_batch?
 ! Nov 9, 2024 https://rt.pornhub.com
 ! rt.pornhub.com###vpContentContainer > .wide
 
-! ph
-rt.pornhub.com##.clearfix.*
-
 ! googletagmanager
 https://www.googletagmanager.com/
 
@@ -16,3 +13,9 @@ https://www.googletagmanager.com/
 
 ! phncdn.com
 https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
+
+! Nov 9, 2024 https://www.pornhub.com
+www.pornhub.com##.original.clear.hd.naaki7efu.naaki7efr
+www.pornhub.com##.clearfix.naaki7efv > div
+www.pornhub.com##cbbbi
+

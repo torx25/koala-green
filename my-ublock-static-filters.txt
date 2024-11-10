@@ -33,6 +33,7 @@ www.pornhub.com###singleFeedSection > .alpha
 ! www.pornhub.com###singleFeedSection > a.eudsaTabIcon.alpha
 www.pornhub.com###singleFeedSection a.eudsaTabIcon.alpha
 www.pornhub.com###customSkinCTA > a.removeAdLink
+www.pornhub.com###singleFeedSection > li.sniperModeEngaged
 
 ! .ntv
 www.xvideos.com##[class^="ntv"] 

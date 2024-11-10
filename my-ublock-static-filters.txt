@@ -28,7 +28,7 @@ www.pornhub.com##.original.clear[class*="hd"]
 
 ! рекламное видео в сетке на главной странице
 www.pornhub.com###singleFeedSection > .alpha
-www.pornhub.com###singleFeedSection > ".eudsaTabIcon alpha"
+www.pornhub.com##a.eudsaTabIcon.alpha
 
 ! .ntv
 www.xvideos.com##[class^="ntv"] 

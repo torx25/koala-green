@@ -11,6 +11,7 @@ rt.pornhub.com/_xa/ads_batch?
 
 ! phncdn.com  
 https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
+||ei.phncdn.com/pics/skins
 
 ! блок справа от плеера
 ! ##.clearfix.ex7tcyhup6qvmmfd3ghctv

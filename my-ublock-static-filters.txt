@@ -8,6 +8,7 @@ rt.pornhub.com/_xa/ads_batch?
 
 ! trafficjunky
 ||trafficjunky.com
+||a.adtng.com
 
 ! phncdn.com  
 https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js

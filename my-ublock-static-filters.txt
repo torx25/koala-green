@@ -30,13 +30,12 @@ www.pornhub.com##.original.clear[class*="hd"]
 
 ! рекламное видео в сетке на главной странице
 www.pornhub.com###singleFeedSection > .alpha
-www.pornhub.com###singleFeedSection > a.eudsaTabIcon.alpha
-www.pornhub.com###singleFeedSection a.eudsaTabIcon.alpha
 www.pornhub.com###customSkinCTA > a.removeAdLink
 www.pornhub.com###singleFeedSection li.sniperModeEngaged
 www.pornhub.com###singleFeedSection .sniperModeEngaged
 www.pornhub.com###singleFeedSection > .sniperModeEngaged 
 www.pornhub.com###singleFeedSection > li.sniperModeEngaged
+#singleFeedSection > a
 
 ! .ntv
 www.xvideos.com##[class^="ntv"] 

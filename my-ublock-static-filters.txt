@@ -35,6 +35,7 @@ www.pornhub.com###singleFeedSection li.sniperModeEngaged
 www.pornhub.com###singleFeedSection .sniperModeEngaged
 www.pornhub.com###singleFeedSection > .sniperModeEngaged 
 www.pornhub.com###singleFeedSection > li.sniperModeEngaged
+www.pornhub.com##[class*="sniperModeEngaged"]
 
 ! .ntv
 www.xvideos.com##[class^="ntv"] 

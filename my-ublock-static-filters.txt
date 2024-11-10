@@ -30,4 +30,4 @@ www.pornhub.com##.original.clear[class*="hd"]
 www.pornhub.com###singleFeedSection > .alpha
 
 ! .ntv
-www.xvideos.com##[class*="ntv"] 
+www.xvideos.com##[class^="ntv"] 

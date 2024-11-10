@@ -32,7 +32,6 @@ www.pornhub.com##.original.clear[class*="hd"]
 www.pornhub.com###singleFeedSection > .alpha
 www.pornhub.com###customSkinCTA > a.removeAdLink
 www.pornhub.com###singleFeedSection > li.sniperModeEngaged
-www.pornhub.com###singleFeedSection > ceacb > div
 
 ! .ntv
 www.xvideos.com##[class^="ntv"] 

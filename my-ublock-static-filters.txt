@@ -14,13 +14,6 @@ rt.pornhub.com/_xa/ads_batch?
 https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 ||ei.phncdn.com/pics/skins
 
-! блок справа от плеера
-! ##.clearfix.ex7tcyhup6qvmmfd3ghctv
-! www.pornhub.com##[class^="clearfix."] > div
-! www.pornhub.com##[class*="clearfix."] > div
-! www.pornhub.com##[class*="clearfix"] > div
-! www.pornhub.com##[class^="clearfix"] > div
-
 ! блок справа от плеера (вместе с related)
 www.pornhub.com###vpContentContainer > .original 
 www.pornhub.com###vpContentContainer > .wide

@@ -22,6 +22,7 @@ rt.pornhub.com###vpContentContainer > .wide
 
 ! баннер под плеером
 www.pornhub.com##.original.clear[class*="hd"] 
+rt.pornhub.com##.original.clear[class*="hd"] 
 
 ! рекламное видео в сетке на главной странице
 www.pornhub.com###singleFeedSection > .alpha

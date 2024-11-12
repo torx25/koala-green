@@ -16,7 +16,9 @@ https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 
 ! блок справа от плеера (вместе с related)
 www.pornhub.com###vpContentContainer > .original 
-||pornhub.com###vpContentContainer > .wide
+rt.pornhub.com###vpContentContainer > .original 
+www.pornhub.com###vpContentContainer > .wide
+rt.pornhub.com###vpContentContainer > .wide
 
 ! баннер под плеером
 www.pornhub.com##.original.clear[class*="hd"] 

@@ -20,6 +20,7 @@ https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 !www.pornhub.com###vpContentContainer > .wide
 !rt.pornhub.com###vpContentContainer > .wide
 
+! блок справа от плеера (только реклама)
 ! https://www.reddit.com/r/uBlockOrigin/comments/fg3wnw/pornhubcom_ads_not_being_blocked/
 www.pornhub.com##div[id="vpContentContainer"] > * > div[class*="clearfix"]
 rt.pornhub.com##div[id="vpContentContainer"] > * > div[class*="clearfix"]
@@ -32,6 +33,8 @@ rt.pornhub.com##.original.clear[class*="hd"]
 www.pornhub.com##div.original.clear[class~="hd"]
 rt.pornhub.com##div.original.clear[class~="hd"]
 
+!www.pornhub.com##:xpath(/html/body/div[8])
+!rt.pornhub.com##:xpath(/html/body/div[8])
 
 ! рекламное видео в сетке на главной странице
 www.pornhub.com###singleFeedSection > .alpha
@@ -39,9 +42,6 @@ rt.pornhub.com###singleFeedSection > .alpha
 www.pornhub.com###customSkinCTA > a.removeAdLink
 rt.pornhub.com###customSkinCTA > a.removeAdLink
 ! www.pornhub.com###singleFeedSection > li.sniperModeEngaged
-
-!www.pornhub.com##:xpath(/html/body/div[8])
-!rt.pornhub.com##:xpath(/html/body/div[8])
 
 !www.pornhub.com##:xpath(/html/body/div[7]/div[2]/div[5]/div[1]/div[1]/div[1]/div[3])
 !rt.pornhub.com##:xpath(/html/body/div[7]/div[2]/div[5]/div[1]/div[1]/div[1]/div[3])

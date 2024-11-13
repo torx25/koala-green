@@ -24,8 +24,13 @@ https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 ! https://www.reddit.com/r/uBlockOrigin/comments/fg3wnw/pornhubcom_ads_not_being_blocked/
 www.pornhub.com##div[id="vpContentContainer"] > * > div[class*="clearfix"]
 rt.pornhub.com##div[id="vpContentContainer"] > * > div[class*="clearfix"]
-www.pornhub.com##deicc[class="alpha"]
-rt.pornhub.com##deicc[class="alpha"]
+
+www.pornhub.com###vpContentContainer > * > div[class*="clearfix"]
+rt.pornhub.com###vpContentContainer > * > div[class*="clearfix"]
+
+
+!www.pornhub.com##deicc[class="alpha"]
+!rt.pornhub.com##deicc[class="alpha"]
 
 ! баннер под плеером
 www.pornhub.com##.original.clear[class*="hd"] 

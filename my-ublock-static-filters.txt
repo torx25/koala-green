@@ -31,3 +31,15 @@ pornhub.com###singleFeedSection > li.sniperModeEngaged
 
 ! .ntv
 www.xvideos.com##[class^="ntv"] 
+
+! Adblock Warning
+pornhub.com##:xpath(/html/body/div[7]/header/div[3]/child::*)
+
+! Bottom Banner Ads
+pornhub.com##:xpath(/html/body/*[12]/child::*)
+
+! Top Right Ads
+pornhub.com##:xpath(/html[1]/body[1]/div[7]/div[2]/div[3]/div[1]/div[2]/div[1]/child::*/child::*)
+
+! Under Video Banner
+pornhub.com##:xpath(/html/body/div[7]/div[2]/div[3]/div[1]/div[1]/div[1]/div[3])

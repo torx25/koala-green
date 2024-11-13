@@ -28,7 +28,8 @@ www.pornhub.com##deicc[class="alpha"]
 rt.pornhub.com##deicc[class="alpha"]
 
 ! баннер под плеером
-! pornhub.com##.original.clear[class*="hd"] 
+www.pornhub.com##.original.clear[class*="hd"] 
+rt.pornhub.com##.original.clear[class*="hd"] 
 www.pornhub.com##div.original.clear[class~="hd"]
 rt.pornhub.com##div.original.clear[class~="hd"]
 

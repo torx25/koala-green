@@ -18,6 +18,8 @@ https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 ! www., rt.
 pornhub.com###vpContentContainer > .original 
 pornhub.com###vpContentContainer > .wide
+
+! https://www.reddit.com/r/uBlockOrigin/comments/fg3wnw/pornhubcom_ads_not_being_blocked/
 pornhub.com##div[id="vpContentContainer"] > * > div[class*="clearfix"]
 pornhub.com##deicc[class="alpha"]
 

@@ -20,18 +20,23 @@ https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 ! pornhub.com###vpContentContainer > .wide
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/fg3wnw/pornhubcom_ads_not_being_blocked/
-pornhub.com##div[id="vpContentContainer"] > * > div[class*="clearfix"]
-pornhub.com##deicc[class="alpha"]
+www.pornhub.com##div[id="vpContentContainer"] > * > div[class*="clearfix"]
+rt.pornhub.com##div[id="vpContentContainer"] > * > div[class*="clearfix"]
+www.pornhub.com##deicc[class="alpha"]
+rt.pornhub.com##deicc[class="alpha"]
 
 ! баннер под плеером
 ! pornhub.com##.original.clear[class*="hd"] 
-pornhub.com##div.original.clear[class~="hd"]
+www.pornhub.com##div.original.clear[class~="hd"]
+rt.pornhub.com##div.original.clear[class~="hd"]
 
 
 ! рекламное видео в сетке на главной странице
-pornhub.com###singleFeedSection > .alpha
-pornhub.com###customSkinCTA > a.removeAdLink
-pornhub.com###singleFeedSection > li.sniperModeEngaged
+www.pornhub.com###singleFeedSection > .alpha
+rt.pornhub.com###singleFeedSection > .alpha
+www.pornhub.com###customSkinCTA > a.removeAdLink
+rt.pornhub.com###customSkinCTA > a.removeAdLink
+! www.pornhub.com###singleFeedSection > li.sniperModeEngaged
 
 ! .ntv
 www.xvideos.com##[class^="ntv"] 

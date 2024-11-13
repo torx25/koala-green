@@ -1,43 +1,24 @@
-! etahub.com
 ||etahub.com
 www.pornhub.com/_xa/ads_batch?
 rt.pornhub.com/_xa/ads_batch?
-
-! googletagmanager
 ||googletagmanager.com
-
-! trafficjunky
 ||trafficjunky.com
 ||adtng.com
-
-! phncdn.com  
 https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 ||ei.phncdn.com/pics/skins
 
-! блок справа от плеера (вместе с related)
-!www.pornhub.com###vpContentContainer > .original 
-!rt.pornhub.com###vpContentContainer > .original 
-!www.pornhub.com###vpContentContainer > .wide
-!rt.pornhub.com###vpContentContainer > .wide
-
 ! блок справа от плеера (только реклама)
-! https://www.reddit.com/r/uBlockOrigin/comments/fg3wnw/pornhubcom_ads_not_being_blocked/
-!www.pornhub.com##div[id="vpContentContainer"] > * > div[class*="clearfix"]
-!rt.pornhub.com##div[id="vpContentContainer"] > * > div[class*="clearfix"]
-
-!www.pornhub.com###vpContentContainer > * > div[class*="clearfix"]
-!rt.pornhub.com###vpContentContainer > * > div[class*="clearfix"]
-||pornhub.com###vpContentContainer > * > div[class*="clearfix"]
-
-
-!www.pornhub.com##deicc[class="alpha"]
-!rt.pornhub.com##deicc[class="alpha"]
+www.pornhub.com###vpContentContainer > * > div[class*="clearfix"]
+rt.pornhub.com###vpContentContainer > * > div[class*="clearfix"]
 
 ! баннер под плеером
-www.pornhub.com##.original.clear[class*="hd"] 
-rt.pornhub.com##.original.clear[class*="hd"] 
-www.pornhub.com##div.original.clear[class~="hd"]
-rt.pornhub.com##div.original.clear[class~="hd"]
+www.pornhub.com###vpContentContainer > * > * > div[class*="hd.clear.original"]
+rt.pornhub.com###vpContentContainer > * > * > div[class*="hd.clear.original"]
+
+!www.pornhub.com##.original.clear[class*="hd"] 
+!rt.pornhub.com##.original.clear[class*="hd"] 
+!www.pornhub.com##div.original.clear[class~="hd"]
+!rt.pornhub.com##div.original.clear[class~="hd"]
 
 !www.pornhub.com##:xpath(/html/body/div[8])
 !rt.pornhub.com##:xpath(/html/body/div[8])

@@ -16,8 +16,10 @@ https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 
 ! блок справа от плеера (вместе с related)
 ! www., rt.
-! pornhub.com###vpContentContainer > .original 
-! pornhub.com###vpContentContainer > .wide
+www.pornhub.com###vpContentContainer > .original 
+rt.pornhub.com###vpContentContainer > .original 
+www.pornhub.com###vpContentContainer > .wide
+rt.pornhub.com###vpContentContainer > .wide
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/fg3wnw/pornhubcom_ads_not_being_blocked/
 www.pornhub.com##div[id="vpContentContainer"] > * > div[class*="clearfix"]

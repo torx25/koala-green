@@ -12,10 +12,10 @@ www.pornhub.com###vpContentContainer > * > div[class*="clearfix"]
 rt.pornhub.com###vpContentContainer > * > div[class*="clearfix"]
 
 ! баннер под плеером
-www.pornhub.com###vpContentContainer > * > * > div[class*="hd.clear.original"]
-rt.pornhub.com###vpContentContainer > * > * > div[class*="hd.clear.original"]
-www.pornhub.com###vpContentContainer > * > * > div[class*="original.clear.hd"]
-rt.pornhub.com###vpContentContainer > * > * > div[class*="original.clear.hd"]
+!www.pornhub.com###vpContentContainer > * > * > div[class*="hd.clear.original"]
+!rt.pornhub.com###vpContentContainer > * > * > div[class*="hd.clear.original"]
+www.pornhub.com###vpContentContainer > * > * > div[class*="hd"][class*="clear"][class*="original"]
+rt.pornhub.com###vpContentContainer > * > * > div[class*="hd"][class*="clear"][class*="original"]
 
 !www.pornhub.com##.original.clear[class*="hd"] 
 !rt.pornhub.com##.original.clear[class*="hd"] 

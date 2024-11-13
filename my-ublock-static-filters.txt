@@ -15,22 +15,19 @@ https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 ||ei.phncdn.com/pics/skins
 
 ! блок справа от плеера (вместе с related)
-www.pornhub.com###vpContentContainer > .original 
-rt.pornhub.com###vpContentContainer > .original 
-
-www.pornhub.com###vpContentContainer > .wide
-rt.pornhub.com###vpContentContainer > .wide
+! www., rt.
+pornhub.com###vpContentContainer > .original 
+pornhub.com###vpContentContainer > .wide
+pornhub.com##div[id="vpContentContainer"] > * > div[class*="clearfix"]
+pornhub.com##deicc[class="alpha"]
 
 ! баннер под плеером
-www.pornhub.com##.original.clear[class*="hd"] 
-rt.pornhub.com##.original.clear[class*="hd"] 
+pornhub.com##.original.clear[class*="hd"] 
 
 ! рекламное видео в сетке на главной странице
-www.pornhub.com###singleFeedSection > .alpha
-rt.pornhub.com###singleFeedSection > .alpha
-www.pornhub.com###customSkinCTA > a.removeAdLink
-rt.pornhub.com###customSkinCTA > a.removeAdLink
-www.pornhub.com###singleFeedSection > li.sniperModeEngaged
+pornhub.com###singleFeedSection > .alpha
+pornhub.com###customSkinCTA > a.removeAdLink
+pornhub.com###singleFeedSection > li.sniperModeEngaged
 
 ! .ntv
 www.xvideos.com##[class^="ntv"] 

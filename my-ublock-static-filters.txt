@@ -4,7 +4,7 @@ rt.pornhub.com/_xa/ads_batch?
 ||googletagmanager.com
 ||trafficjunky.com
 ||adtng.com
-https://ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
+ei.phncdn.com/www-static/js/cookieBanner/cookie_banner.js
 ||ei.phncdn.com/pics/skins
 
 ! блок справа от плеера (только реклама)
@@ -12,41 +12,14 @@ www.pornhub.com###vpContentContainer > * > div[class*="clearfix"]
 rt.pornhub.com###vpContentContainer > * > div[class*="clearfix"]
 
 ! баннер под плеером
-!www.pornhub.com###vpContentContainer > * > * > div[class*="hd.clear.original"]
-!rt.pornhub.com###vpContentContainer > * > * > div[class*="hd.clear.original"]
 www.pornhub.com###vpContentContainer > * > * > div[class*="hd"][class*="clear"][class*="original"]
 rt.pornhub.com###vpContentContainer > * > * > div[class*="hd"][class*="clear"][class*="original"]
-
-!www.pornhub.com##.original.clear[class*="hd"] 
-!rt.pornhub.com##.original.clear[class*="hd"] 
-!www.pornhub.com##div.original.clear[class~="hd"]
-!rt.pornhub.com##div.original.clear[class~="hd"]
-
-!www.pornhub.com##:xpath(/html/body/div[8])
-!rt.pornhub.com##:xpath(/html/body/div[8])
 
 ! рекламное видео в сетке на главной странице
 www.pornhub.com###singleFeedSection > .alpha
 rt.pornhub.com###singleFeedSection > .alpha
 www.pornhub.com###customSkinCTA > a.removeAdLink
 rt.pornhub.com###customSkinCTA > a.removeAdLink
-! www.pornhub.com###singleFeedSection > li.sniperModeEngaged
-
-!www.pornhub.com##:xpath(/html/body/div[7]/div[2]/div[5]/div[1]/div[1]/div[1]/div[3])
-!rt.pornhub.com##:xpath(/html/body/div[7]/div[2]/div[5]/div[1]/div[1]/div[1]/div[3])
 
 ! .ntv--------------------------------------------
 www.xvideos.com##[class^="ntv"] 
-
-!-------------------------------------------------
-! Adblock Warning
-! pornhub.com##:xpath(/html/body/div[7]/header/div[3]/child::*)
-
-! Bottom Banner Ads
-! pornhub.com##:xpath(/html/body/*[12]/child::*)
-
-! Top Right Ads
-! pornhub.com##:xpath(/html[1]/body[1]/div[7]/div[2]/div[3]/div[1]/div[2]/div[1]/child::*/child::*)
-
-! Under Video Banner
-! pornhub.com##:xpath(/html/body/div[7]/div[2]/div[3]/div[1]/div[1]/div[1]/div[3])

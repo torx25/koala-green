@@ -23,5 +23,5 @@ rt.pornhub.com###customSkinCTA > a.removeAdLink
 
 ! .ntv--------------------------------------------
 www.xvideos.com##[class^="ntv"] 
-www.xvideos.com###video-right > div[class*="exo-ad-ins-container"][class*="ad-support-desktop"]
-www.xvideos.com###video-right.mobile-hide
+www.xvideos.com/js/workers/chat-prive-sw.js
+www.xvideos.com###video-right.mobile-hide.exo-ad-ins-container.is-filled.ad-support-desktop.hidden

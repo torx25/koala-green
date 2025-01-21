@@ -24,3 +24,4 @@ rt.pornhub.com###customSkinCTA > a.removeAdLink
 ! .ntv--------------------------------------------
 www.xvideos.com##[class^="ntv"] 
 www.xvideos.com###video-right
+www.xvideos.com##.xv-cams-block

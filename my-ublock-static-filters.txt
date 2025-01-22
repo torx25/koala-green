@@ -27,3 +27,5 @@ www.xvideos.com/js/workers/chat-prive-sw.js
 www.xvideos.com###video-right.mobile-hide.exo-ad-ins-container.is-filled.ad-support-desktop.hidden
 www.xvideos.com###content > #video-right
 www.xvideos.com###content > div[class^="ntv"]
+www.xvideos.com## #video-right
+www.xvideos.com## div[class^="ntv"]
